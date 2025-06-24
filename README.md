@@ -23,8 +23,8 @@ I'm a **Data Scientist and ML Engineer** with a passion for building intelligent
 ---
 
 ### ✨ A Little More About Me
-- 🌱 Currently diving deeper into PyTorch and real-time ML deployment
-- 💬 I speak English 🇬🇧 and Spanish 🇪🇸 fluently
+- 🌱 Currently diving deeper into real-time ML development, Generative AI Engineering using Agents and RAG
+- 💬 I speak English and Spanish fluently
 - 🧳 I’ve worked across Singapore, Chile, and remote-first global teams
 - 💡 I care deeply about inclusion, tech for impact, and lifelong learning
 
