@@ -32,6 +32,6 @@ I'm a **Data Scientist and ML Engineer** with a passion for building intelligent
 
 ### 📫 Let’s Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shraddharamesh)
-- 📬 shraddha.ramesh@gmail.com 
+- 📬 shadds.r@gmail.com 
 
 Thanks for visiting! 🌟
