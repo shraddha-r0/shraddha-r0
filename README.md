@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shraddha Ramesh!
 
-I'm a **Data Scientist and ML Engineer** with a passion for building intelligent systems that solve real-world problems. My background combines technical depth in Python, machine learning, and MLOps with a strong sense of business impact, with experience in industries like mining, software, etc.
+I’m a **Data Scientist** and **ML Engineer** who’s passion for building intelligent systems that solve real world problems has led to me working for numerous different teams across the world. During my 7 years of experience I've gained technical depth in Python, machine learning, and MLOps, while also developing a strong sense of business impact while working in industries dedicated to mining and software.
 
 ---
 
