@@ -18,12 +18,19 @@ I’m a **Data Scientist** and **ML Engineer** who’s passion for building inte
 `Azure ML` | `AWS` | `dbt` | `FastAPI` | `LangChain`
 
 ---
+
+### 🔭 What I'm Currently Working On
+- 🧠 **GenAI Engineering Fellowship** – Outskill's hands-on course exploring LLMs, RAG, agents, and multimodal AI  
+- 📚 **Emotional Geography of Books** – NLP + data engineering project analyzing emotional tone of book titles across time and culture  
+- ✨ **Quiet Spark** – Personal AI agent system in the discovery and architecture phase
+---
+
 👉 [Check out my repos](https://github.com/shraddha-r0?tab=repositories)
 
 ---
 
 ### ✨ A Little More About Me
-- 🌱 Currently diving deeper into real-time ML development, Generative AI Engineering using Agents and RAG
+- 🌱 Currently diving deeper into real-time ML development and Generative AI applications  
 - 💬 I speak English and Spanish fluently
 - 🧳 I’ve worked across Singapore, Chile, and remote-first global teams
 - 💡 I care deeply about inclusion, tech for impact, and lifelong learning
